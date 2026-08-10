@@ -4,7 +4,7 @@ public class Example {
 
     public static void main (String[] arg){
         String name = "jon";
-        int age = 16;
+        int age = 85;
         System.out.println(Example2.getUserAccessClean(age, name));
     }
 }
